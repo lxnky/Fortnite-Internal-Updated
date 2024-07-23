@@ -1,9 +1,9 @@
 
 # Download Build & Injector 
-[Download](https://discord.gg/PkZBeMWFVm)
+[Download](https://discord.gg/YzpCypQyNw)
 
 # Discord
-Join my [discord server](https://discord.gg/PkZBeMWFVm) to get vcxproj files and undetected injector for this source
+Join my [discord server](https://discord.gg/YzpCypQyNw) to get vcxproj files and undetected injector for this source
 
 ## Current features:
 
